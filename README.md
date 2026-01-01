@@ -55,3 +55,43 @@ spotify-clone/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS stylesheet
 └── README.md        # Project documentation
+```
+
+## ▶️ Usage
+
+- Open the application in a browser  
+- Explore the static Spotify-style interface  
+- Review HTML & CSS for learning  
+
+---
+
+## 🔮 Future Scope
+
+- Add JavaScript:
+  - Play/Pause functionality  
+  - Song progress bar  
+  - Playlist interactions  
+- Improve mobile responsiveness  
+- Add animations and transitions  
+- Enhance accessibility  
+
+---
+
+## 👩‍💻 Author
+
+**Pooja Sabbani**  
+B.Tech Student  
+Front-End & Web Development Learner  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ Acknowledgements
+
+- UI inspired by **Spotify Web Player**  
+- Built as a **practice project**
