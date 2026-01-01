@@ -85,12 +85,6 @@ Front-End & Web Development Learner
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ⭐ Acknowledgements
 
 - UI inspired by **Spotify Web Player**  
